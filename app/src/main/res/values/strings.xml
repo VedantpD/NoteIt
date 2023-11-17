@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Note It</string>
+    <string name="check_Id1">check_Id1</string>
+    <string name="check_Id2">check_Id2</string>
+    <string name="check_Id3">check_Id3</string>
+    <string name="check_Id4">check_Id4</string>
+    <string name="check_Id5">check_Id5</string>
+    <string name="check_Id6">check_Id6</string>
+    <string name="check_Id7">check_Id7</string>
+    <string name="check_Id8">check_Id8</string>
+    <string name="check_Id9">check_Id9</string>
+    <string name="check_Id10">check_Id10</string>
+    <string name="tcheck_Id1">tcheck_Id1</string>
+    <string name="tcheck_Id2">tcheck_Id2</string>
+    <string name="tcheck_Id3">tcheck_Id3</string>
+    <string name="tcheck_Id4">tcheck_Id4</string>
+    <string name="tcheck_Id5">tcheck_Id5</string>
+    <string name="tcheck_Id6">tcheck_Id6</string>
+    <string name="tcheck_Id7">tcheck_Id7</string>
+    <string name="tcheck_Id8">tcheck_Id8</string>
+    <string name="tcheck_Id9">tcheck_Id9</string>
+    <string name="tcheck_Id10">tcheck_Id10</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

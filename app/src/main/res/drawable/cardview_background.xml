@@ -1,0 +1,11 @@
+<!-- card_background.xml (place this file in the res/drawable folder) -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Outer background color (card color) -->
+    <solid android:color="#6979D6" />
+
+    <!-- Corner radius for rounded corners -->
+    <corners android:radius="10dp" />
+
+</shape>
