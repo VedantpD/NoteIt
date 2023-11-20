@@ -59,5 +59,10 @@ dependencies {
     //Gson dependency
     implementation 'com.google.code.gson:gson:2.8.8'
 
+    //AES dependencies
+    implementation "javax.crypto:javax.crypto-api:1.1.1"
+    implementation "org.bouncycastle:bcprov-jdk15on:1.68" // For Bouncy Castle provider
+
+
 
 }
